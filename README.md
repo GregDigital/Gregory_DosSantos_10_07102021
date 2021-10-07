@@ -27,8 +27,8 @@ Cadrer ce projet puis de coordonner tous les développements avec l’équipe.
 ### Livrables : 
 
 <a href="https://www.figma.com/file/B4kOBwlz7qDMHRYVNH9QKD/learn@home?node-id=191%3A2" >Les diagrammes de cas d’usage</a> <br>
-<a href="https://www.figma.com/file/B4kOBwlz7qDMHRYVNH9QKD/learn@home?node-id=191%3A2" >Les user stories avec critère(s) d’acceptation </a><br>
-<a href="https://www.figma.com/file/B4kOBwlz7qDMHRYVNH9QKD/learn@home?node-id=191%3A2" >Les maquettes du site</a><br>
+<a href="https://www.figma.com/file/B4kOBwlz7qDMHRYVNH9QKD/learn@home?node-id=192%3A2" >Les user stories avec critère(s) d’acceptation </a><br>
+<a href="https://www.figma.com/file/B4kOBwlz7qDMHRYVNH9QKD/learn@home?node-id=207%3A2" >Les maquettes du site</a><br>
 <a href="https://jewel-noise-1a2.notion.site/Dev4U-projet-Learn-Home-efebc0505aa74ad7a081d87ffd36afd0" >Le tableau Kanban</a>
 
 
